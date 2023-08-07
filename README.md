@@ -60,6 +60,7 @@
 
 #### Ответ на задание 2.
 
+#### [Ссылка на коммит с файлом .gitignore](https://github.com/andaks1/8.0.1_git/commit/07aed6823b8010e2e4fd36dc1aa0090a14d56bfa)
 ---
 
 
