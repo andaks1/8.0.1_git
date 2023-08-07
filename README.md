@@ -81,7 +81,7 @@
 
 
 #### Ответ на задание 3.
-![image 2](img/02.png)
+![image 2](img/03.png)
 
 #### [Ссылка на граф](https://github.com/andaks1/8.0.1_git/network)
 ---
